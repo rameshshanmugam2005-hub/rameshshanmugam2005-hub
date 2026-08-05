@@ -10,7 +10,7 @@ Java Developer | Frontend Enthusiast | DSA Learner
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,reactjs,tailwindcss" />
 </p>
 
 ### ☕ Programming Languages
@@ -25,7 +25,7 @@ Java Developer | Frontend Enthusiast | DSA Learner
 
 ### ☁️ Cloud & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
