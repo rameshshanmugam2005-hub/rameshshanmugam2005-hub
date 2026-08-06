@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh</h1>
 
 <h3 align="center">
-Java Developer | Frontend Enthusiast | DSA Learner
+Java Developer | Full Stack Developer | DSA Learner
 </h3>
 
 ---
