@@ -54,7 +54,7 @@
 # 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAMESH-S45&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshshanmugam45&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -63,10 +63,9 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=RAMESH-S45&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam45&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 # 💬 Developer Quote
 
 <p align="center">
