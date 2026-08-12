@@ -2,11 +2,17 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ramesh%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
 </p>
 
-<h3 align="center">
-Java Developer | Full Stack Developer | DSA Learner
-</h3>
-
 ---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
+- 💻 Passionate Java Developer
+- 🌐 Full Stack Developer
+- 📚 Solving Data Structures & Algorithms on LeetCode
+- ☁️ Interested in Backend Development & Software Engineering
+- 🚀 Building real-world projects using Java, React, Node.js,Tailwindcss,API and MySQL
+- 🤝 Open to Internship & Placement Opportunities
 
 ## 🛠️ Tech Stack
 
@@ -55,8 +61,26 @@ Java Developer | Full Stack Developer | DSA Learner
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=github-dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+# 💬 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
