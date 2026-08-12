@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ramesh</h1>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ramesh%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20|%20Full%20Stack%20Developer%20|%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
+</p>
 
 <h3 align="center">
 Java Developer | Full Stack Developer | DSA Learner
