@@ -11,9 +11,12 @@
 - ☁️ Interested in Backend Development & Software Engineering
 - 🚀 Building real-world projects using Java, React, Node.js,Tailwindcss,API and MySQL
 - 🤝 Open to Internship & Placement Opportunities
-  ### 🚀 Featured Project: Transit AI
 
-<a href="https://transit-ai-1mot.onrender.com/" target="_blank">
+ ---
+ 
+ ### 🚀 Featured Project: Transit AI
+
+<a>
   <img src="https://img.shields.org/badge/Transit_AI-Visit_Live_App-2ea44f?style=for-the-badge&logo=render&logoColor=white" alt="Transit AI Live Demo"/>
 </a>
 
