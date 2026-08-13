@@ -92,8 +92,11 @@
 
 # 📊 GitHub Statistics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true"/>
+
 </p>
+the git hub statics not shows upto date change it as upto date for ever it shows only till aug 5
 
 # 💬 Developer Quote
 
