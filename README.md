@@ -11,6 +11,9 @@
 - ☁️ Interested in Backend Development & Software Engineering
 - 🚀 Building real-world projects using Java, React, Node.js,Tailwindcss,API and MySQL
 - 🤝 Open to Internship & Placement Opportunities
+- <a href="https://www.linkedin.com/in/ramesh045">
+<img src="https://img.shields.io/badge/TRANSIT-AI-0077B5?style=for-the-badge&logo=TRANSIT-AI&logoColor=lightblue"/>
+</a>
 
   ---
 
