@@ -93,11 +93,8 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true&cache=false" alt="GitHub Streak Stats" />
 </p>
-
 # 💬 Developer Quote
 
 <p align="center">
