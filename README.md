@@ -16,9 +16,6 @@
  
  ### 🚀 Featured Project: Transit AI
 
-<a>
-  <img src="https://img.shields.org/badge/Transit_AI-Visit_Live_App-2ea44f?style=for-the-badge&logo=render&logoColor=white" alt="Transit AI Live Demo"/>
-</a>
 
 > **Transit AI** is an intelligent public transit routing and prediction system.
 
