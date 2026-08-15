@@ -96,7 +96,7 @@
 <img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true"/>
 
 </p>
-the git hub statics not shows upto date change it as upto date for ever it shows only till aug 5
+the git hub statics shows upto date 
 
 # 💬 Developer Quote
 
