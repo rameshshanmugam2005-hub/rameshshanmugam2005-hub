@@ -12,9 +12,9 @@
 - 🚀 Building real-world projects using Java, React, Node.js,Tailwindcss,API and MySQL
 - 🤝 Open to Internship & Placement Opportunities
 
- ---
- 
- ### 🚀 Featured Project: Transit AI
+---
+
+### 🚀 Featured Project: Transit AI
 
 
 > **Transit AI** is an intelligent public transit routing and prediction system.
@@ -23,9 +23,9 @@
 
 
 
-  ---
+---
 
-  # 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -76,6 +76,7 @@
     alt="LeetCode Stats"
   />
 </p>
+
 ---
 
 ## 📈 GitHub Contribution Graph
@@ -92,19 +93,14 @@
 
 # 📊 GitHub Statistics
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
-the git hub statics shows upto date 
 
 # 💬 Developer Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
