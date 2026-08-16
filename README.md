@@ -6,7 +6,7 @@
 
 - 🎓 Computer Science Engineering Student at **V.S.B College of Engineering Technical Campus**
 - 💻 Passionate Java Developer
-- 🌐 Full Stack Developer  Network Engineer
+- 🌐 Full Stack Developer & Network Engineer
 - 📚 Solving Data Structures & Algorithms on LeetCode
 - ☁️ Interested in Backend Development & Software Engineering
 - 🚀 Building real-world projects using Java, React, Node.js,Tailwindcss,API and MySQL
