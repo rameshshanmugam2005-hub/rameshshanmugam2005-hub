@@ -58,7 +58,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,sql" />
 </p>
 
 ### ☁️ Cloud & Tools
