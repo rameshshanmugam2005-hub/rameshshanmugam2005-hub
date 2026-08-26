@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ramesh%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Network%20Engineer&descAlignY=68&animation=fadeIn" />
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Ramesh S</h1>
 
 <h3 align="center">
-  💻 Computer Science Engineering Student | 🚀 Developer | 🌐 Network Enthusiast
+💻 Computer Science Engineering Student | 🚀 Developer | 🌐 Network Enthusiast
 </h3>
 
 <p align="center">
@@ -159,12 +159,6 @@ Transit AI is a **full-stack public transit web application** designed to provid
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/rameshshanmugam45/">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 # 📈 GitHub Statistics
@@ -295,11 +289,11 @@ Led the hockey team to:
 ---
 
 <h3 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! ⭐
 </h3>
 
 <p align="center">
-  <b>💻 Code • 🧠 Learn • 🚀 Build • 🌐 Connect • 📈 Grow</b>
+<b>💻 Code • 🧠 Learn • 🚀 Build • 🌐 Connect • 📈 Grow</b>
 </p>
 
 <p align="center">
@@ -308,4 +302,3 @@ Led the hockey team to:
     src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0F2027,50:203A43,100:2C5364"
   />
 </p>
-```
