@@ -105,7 +105,6 @@ Transit AI is a **full-stack public transit web application** designed to provid
 </p>
 
 ---
-
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
@@ -122,7 +121,7 @@ Transit AI is a **full-stack public transit web application** designed to provid
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.app/graph?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true" 
     alt="GitHub Streak Stats" 
   />
 </p>
