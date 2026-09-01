@@ -105,11 +105,6 @@ Transit AI is a **full-stack public transit web application** designed to provid
 </p>
 
 ---
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameshshanmugam2005-hub&bg_color=0d1117&color=58a6ff&line=38bdae&point=f85149&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
-</p>
 
 ## 📊 GitHub Statistics
 
