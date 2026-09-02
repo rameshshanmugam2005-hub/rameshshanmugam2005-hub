@@ -114,6 +114,8 @@ Transit AI is a **full-stack public transit web application** designed to provid
     alt="GitHub Streak Stats" 
   />
 </p>
+
+
 ---
 
 # 💬 Developer Quote
