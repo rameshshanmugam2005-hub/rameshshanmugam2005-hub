@@ -108,13 +108,15 @@ Transit AI is a **full-stack public transit web application** designed to provid
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=rameshshanmugam2005-hub&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak Stats" 
-  />
-</p>
+<div align="center">
 
+<a href="https://github.com/rameshshanmugam2005-hub">
+
+<img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&hide_border=true" alt="GitHub Streak"/>
+
+</a>
+
+</div>
 
 ---
 
