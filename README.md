@@ -20,9 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rameshshanmugam2005-hub&label=Profile%20Views&color=2C5364&style=for-the-badge" />
-</p>
 
 ---
 
