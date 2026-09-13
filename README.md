@@ -162,15 +162,6 @@
   <a href="https://github.com/rameshshanmugam2005-hub">
     <img src="https://streak-stats.demolab.com?user=rameshshanmugam2005-hub&hide_border=true" alt="GitHub Streak"/>
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rameshshanmugam2005-hub&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 ---
 
