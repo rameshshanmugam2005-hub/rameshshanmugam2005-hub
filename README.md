@@ -2,11 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ramesh%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Java%20Developer%20%7C%20DSA%20Learner&descAlignY=68&animation=fadeIn"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Ramesh S</h1>
-
-<p align="center">
-  <b>Software Engineer • Full-Stack Developer • Java Developer</b>
-</p>
 
 <p align="center">
   <a href="https://rameshportfolio-sooty.vercel.app/">
